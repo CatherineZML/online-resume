@@ -8,7 +8,7 @@ basic:
 contact:
   # meta
   location: Beijing, China # location
-  email: me@example.com    # email address
+  email: zhuoml17@mails.tsinghua.edu.cn   # email address
   phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
