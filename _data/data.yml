@@ -1,5 +1,5 @@
 basic:
-  name: Foo Bar                      # name
+  name: Meilian Zhuo                      # name
   title: Backend Developer           # job title
   avatar:
     show: true                       # show or hide avatar
@@ -83,10 +83,9 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
-
+    #The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
+    #A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Dedicated and passionate researcher with extensive experience in cancer biology, seeking a postdoctoral position to contribute to groundbreaking research and advancements in oncology.
 experience:
   show: true
   order: 2
